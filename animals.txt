@@ -208,6 +208,7 @@ Elephant Shrew
 Emperor Penguin
 Emperor Tamarin
 Emu
+Eagle
 English Cocker Spaniel
 English Shepherd
 English Springer Spaniel
@@ -592,3 +593,4 @@ Zebra Shark
 Zebu
 Zonkey
 Zorse
+
